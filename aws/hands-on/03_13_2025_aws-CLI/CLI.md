@@ -248,7 +248,7 @@ aws s3 rm s3://YOUR-NAME-cli-bucket-kaplan/new/in-class.yaml
 - remove the bucket
 
 ```bash
-aws s3 rb s3://YOUR-NAME-cli-bucket-kaplan --force
+aws s3 rb s3://betul-lesson-s3-1 --force
 ```
 
 ### Step 3 - EC2
