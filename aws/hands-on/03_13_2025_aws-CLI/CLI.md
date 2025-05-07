@@ -289,7 +289,6 @@ aws ec2 run-instances \
 
 ```bash
 
-aws ec2 describe-instances \
    --filters "Name = key-name, Values = YOUR-KEY-NAME"   # put your key name
 
 aws ec2 describe-instances \
